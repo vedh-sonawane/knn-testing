@@ -1,6 +1,6 @@
 # k-NN from Scratch with Decision Boundary Visualization
 
-## Overview
+## Overview 
 This project implements the k-Nearest Neighbors (k-NN) algorithm from scratch and visualizes how it classifies data points by plotting decision boundaries.
 
 ---
